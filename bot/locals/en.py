@@ -3,8 +3,8 @@ from bot.locals import Local
 
 LOCAL = Local({
     'WRONG_ROOM' : 'I a\'m not suppose to be here.\nID : <code>{CHAT_ID}</code>',
-    'WELCOME_MESSAGE' : "Hi!\nI'm <b>Botkaca</b>!\nPowered by pyrogram.\nFork: <a href='https://github.com/azamaulanaaa/botkaca'>github.com/azamaulanaaa/botkaca</a>",
-    'PASS_REQUIRED' : '\n\nUse <code>/{cmd_pass} </code>to enter the password.',
+    'WELCOME_MESSAGE' : "Hi!\nI'm <b>Torrentitbot</b>!\nPowered by pyrogram.\n\nMore Bots: <a href='https://t.me/HXBots''>T.me/HXBots'</a>",
+    'PASS_REQUIRED' : '\n\nUse /pass [code] </code>to enter the password.',
     'LEECH_LIST_MESSAGE_HEADER' : '<b>Leech Status</b>',
     'LEECH_LIST_FORMAT' : 'Name: <code>{name}</code>\nStatus: {status}\nID: <code>{gid}</code>\n\n',
     'ARIA2_CHECKING_LINK' : "Checking...",
@@ -29,7 +29,7 @@ LOCAL = Local({
     'UPLOAD_AS_ZIP' : 'Upload as zip file set to {status}.',
     'TRACKER_RESET' : 'Default torrent tracker reset.',
     'TRACKER_APPLIED' : 'Default torrent tracker applied.',
-    'HELP_MESSAGE_HEADER' : '<b>Bot Command</b>',
+    'HELP_MESSAGE_HEADER' : '<b>Bot Commands U Can Use</b>',
     'NO_HELP_INFO' : 'no information',
     'COMMAND_START' : 'start bot',
     'COMMAND_PASSWORD' : 'enter password that required',
