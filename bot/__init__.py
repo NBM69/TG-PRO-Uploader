@@ -14,7 +14,7 @@ CONFIG = Config({
     'BOT_TOKEN' : None,
     'BOT_PASSWORD' : None,
     'CHAT_ID' : '',
-    'EDIT_SLEEP' : 3,
+    'EDIT_SLEEP' : 1,
     'UPLOAD_MAX_SIZE' : 2000 * 1024 * 1024,
     'UPLOAD_AS_DOC' : 0,
     'UPLOAD_AS_ZIP' : 0,
