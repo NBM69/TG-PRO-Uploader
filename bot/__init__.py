@@ -9,7 +9,7 @@ CONFIG = Config({
     'WORKDIR' : 'sessions',
     'LOG_FILE' : 'log.txt',
     'MAX_LOG_SIZE' : 10 * 1024 * 1024,
-    'API_HASH' : a4c9a18cf4d8cb24062ff6916597f832,
+    'API_HASH' : 'a4c9a18cf4d8cb24062ff6916597f832' ,
     'API_ID' : 924859,
     'BOT_TOKEN' : '1709625522:AAHpX8LqDcAyJby867OBLFHE7U1OoaEU1vc' ,
     'BOT_PASSWORD' : None,
