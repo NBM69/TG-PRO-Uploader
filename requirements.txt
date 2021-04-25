@@ -4,3 +4,4 @@ aria2p
 ffmpeg
 requests
 ytdl
+pyrogram
