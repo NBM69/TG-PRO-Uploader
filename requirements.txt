@@ -1,7 +1,7 @@
-asyncio
 tgcrypto
 aria2p
 ffmpeg
 requests
 ytdl
 pyrogram
+asyncio
