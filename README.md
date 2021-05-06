@@ -35,7 +35,7 @@ Change config by set the corresponding environment variable name.
 
 ## Deploy button
 
-[<img src="https://deploy.cloud.run/button.svg" alt="Run on Google Cloud" height="40"/>](https://deploy.cloud.run?git_repo= https://github.com/NBM69/TG-PRO-Uploader.git "Google Cloud")
+[<img src="https://deploy.cloud.run/button.svg" alt="Run on Google Cloud" height="40"/>](https://deploy.cloud.run?git_repo=https://github.com/NBM69/TG-PRO-Uploader.git "Google Cloud")
 [<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="40"/>](https://heroku.com/deploy?template=https://github.com/NBM69/TG-PRO-Uploader "Heroku")
 
 *Currently google cloud does not supported due to app.json clash with heroku. Check out Google Cloud Run issue [#112](https://github.com/GoogleCloudPlatform/cloud-run-button/issues/112#issuecomment-663858778 "Both Cloud Run Button and Heroku Button - app.json Clash")*
