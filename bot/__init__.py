@@ -9,11 +9,11 @@ CONFIG = Config({
     'WORKDIR' : 'sessions',
     'LOG_FILE' : 'log.txt',
     'MAX_LOG_SIZE' : 10 * 1024 * 1024,
-    'API_HASH' : 'a4c9a18cf4d8cb24062ff6916597f832' ,
-    'API_ID' : 924859,
-    'BOT_TOKEN' : '1709625522:AAHpX8LqDcAyJby867OBLFHE7U1OoaEU1vc' ,
-    'BOT_PASSWORD' : 'kirodewal' ,
-    'CHAT_ID' : '-1001364200595',
+    'API_HASH' : os.environ.get("API_HASH")
+    'API_ID' : os.environ.get("API_ID")
+    'BOT_TOKEN' : os.environ.get("BOT_TOKEN")
+    'BOT_PASSWORD' : os.environ.get("BOT_PASSWORD")
+    'CHAT_ID' : os.environ.get("CHAT_ID")
     'EDIT_SLEEP' : 5,
     'UPLOAD_MAX_SIZE' : 2000 * 1024 * 1024,
     'UPLOAD_AS_DOC' : 0,
