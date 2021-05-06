@@ -1,4 +1,4 @@
-asyncio
+https://github.com/CW4RR10R/pyrogram/archive/asyncio.zip
 tgcrypto
 aria2p
 ffmpeg
