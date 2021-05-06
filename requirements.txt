@@ -1,4 +1,3 @@
-https://github.com/MannyHackers/botkaca/releases/download/asyncio/pyrogram-asyncio.zip
 tgcrypto
 aria2p
 ffmpeg
