@@ -8,8 +8,8 @@
       "3",
       "leecher"
     ],
-    "website": "htthttps://github.com/kirodewal",
-    "repository": "https://github.com/kirodewal/torrentbot",
+    "website": "htthttps://github.com/NBM69",
+    "repository": "https://github.com/NBM69/TG-PRO-Uploader",
     "env": {
       "API_ID": {
         "description": "get this value from https://my.telegram.org",
@@ -22,6 +22,11 @@
       "BOT_TOKEN": {
         "description": "get this value from @BotFather",
         "value": ""
+      },
+      "UPLOAD_AS_DOC": {
+        "description": "Put this value true if u want to upload telegramg upload as document.",
+        "value": ""
+        "required" : true
       },
       "BOT_PASSWORD": {
         "description": "enter pasword or leave it public",
