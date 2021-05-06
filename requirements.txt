@@ -1,5 +1,4 @@
-asyncio
-pyrogram==1.0.1
+asyncio pyrogram==1.0.1
 tgcrypto
 aria2p
 ffmpeg
