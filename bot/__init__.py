@@ -16,7 +16,7 @@ CONFIG = Config({
     'CHAT_ID' : os.environ.get("CHAT_ID")
     'EDIT_SLEEP' : 5,
     'UPLOAD_MAX_SIZE' : 2000 * 1024 * 1024,
-    'UPLOAD_AS_DOC' : 0,
+    'UPLOAD_AS_DOC' : os.environ.get("UPLOAD_AS_DOC"),
     'UPLOAD_AS_ZIP' : 0,
     'ARIA2_DIR' : 'downloads',
     'TORRENT_TRACKER' : '',
