@@ -1,9 +1,8 @@
-
 from bot.locals import Local
 
 LOCAL = Local({
-    'WRONG_ROOM' : 'I a\'m not suppose to be here.\nID : <code>{CHAT_ID}</code> \n\nGet new password from @Kirodewal',
-    'WELCOME_MESSAGE' : "Hi!\nI'm <b>Torrentitbot</b>!\nPowered by pyrogram.\n\nMore Bots: <a href='https://t.me/HXBots'>@HXBots'</a>\n\nGet password from @HxSupport to use this bot",
+    'WRONG_ROOM' : 'I a\'m not suppose to be here.\nID : <code>{CHAT_ID}</code> \n\nGet new password from @tpxmadara',
+    'WELCOME_MESSAGE' : "Hi!\nI'm <b>Madara Leech Bot</b>!\nPowered by pyrogram.\n\nBot Owner: <a href='https://t.me/tpxmadara'>@TpxMadara'</a>\n\nGet password from @Tpxmadara to use this bot",
     'PASS_REQUIRED' : '\n\nUse /pass [code] </code>to enter the password.',
     'LEECH_LIST_MESSAGE_HEADER' : '<b>Leech Status</b>',
     'LEECH_LIST_FORMAT' : 'Name: <code>{name}</code>\n\nStatus: {status}\n\nID: <code>{gid}</code>\n\n',
@@ -32,7 +31,7 @@ LOCAL = Local({
     'HELP_MESSAGE_HEADER' : '<b>Bot Commands U Can Use</b>',
     'NO_HELP_INFO' : 'no information',
     'COMMAND_START' : 'start bot',
-    'COMMAND_PASSWORD' : 'enter password that required\n\nGet Password from @Kirodewal',
+    'COMMAND_PASSWORD' : 'enter password that required\n\nGet Password from @TpxMadara',
     'COMMAND_HELP' : 'this message',
     'COMMAND_LEECH' : 'leech link or magnet',
     'COMMAND_CANCEL_LEECH' : 'cancel leeching',
