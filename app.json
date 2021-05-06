@@ -26,7 +26,6 @@
       "UPLOAD_AS_DOC": {
         "description": "Put this value true if u want to upload telegramg upload as document.",
         "value": ""
-        "required" : true
       },
       "BOT_PASSWORD": {
         "description": "enter pasword or leave it public",
