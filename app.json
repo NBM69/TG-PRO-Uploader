@@ -31,6 +31,11 @@
         "description": "enter pasword or leave it public",
         "value": "",
         "required" : false
+      },
+      "CHAT_ID": {
+        "description": "enter your group chat id.",
+        "value": "",
+        "required" : false
       }
     },
     "stack": "container",
